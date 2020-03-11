@@ -4,33 +4,31 @@
 
 # Head info
 head:
-    favicon: "/img/logo_miccall.png"
-    keywords: miccall
-    backgroundpic : "img/bg.jpg"
+    favicon: "/img/littleDog.jpg"
+    keywords: ceilon 柴泷
+    backgroundpic : "img/background.jpg"
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: Ceilon
+    slogan: "But the night is darkest just before the dawn.<br/> And I promise you...the dawn is coming."
+    HeadButton: Celion
 
 Nav:
     Home_name: 主页
     is_use_categories : true 
     categories_name: 分类
-    is_use_archives : false
+    is_use_archives : true
     archives_name: 归档
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
-        github: https://github.com/miccall
+        github: https://github.com/Ceilon/Ceilon.github.io
         500px: http://500px.com
         
     pages:
         简历: 
             link: "/about/"
-        团队 :
-            link: "/group/"
         图库 :
             link: "/gallery/"
         标签:
@@ -39,14 +37,14 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games   
+    name: Ceilon's Blog
+    description: 欢迎来到Ceilon的博客
     pic_url: /images/me.jpg
     goto_ulr: ""
 
 Gallery :
-    title: Mr.metro 
-    description: Just another fine responsive 
+    title: My photography
+    description:  技术有待提升
 
 # ---------------------------------------------------------------
 # Style Settings
